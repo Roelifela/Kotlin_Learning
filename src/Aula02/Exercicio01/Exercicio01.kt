@@ -1,10 +1,8 @@
 package Aula02.Exercicio01
-
 /*
 Given 3 numbers
 return the bigger one
  */
-
 
 fun main(){
 

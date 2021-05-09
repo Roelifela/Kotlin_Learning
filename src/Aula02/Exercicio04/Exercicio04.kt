@@ -1,6 +1,7 @@
 package Aula02.Exercicio04
-
-
+/*
+Print first 100 odd numbers
+ */
 
 fun main(){
 

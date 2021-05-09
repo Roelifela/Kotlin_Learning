@@ -1,5 +1,4 @@
 package Aula02.Exercicio02
-
 /*
 Given 2 texts
 compare and return

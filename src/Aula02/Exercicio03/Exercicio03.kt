@@ -1,5 +1,4 @@
 package Aula02.Exercicio03
-
 /*
 Check a given number and
 return true if number is even

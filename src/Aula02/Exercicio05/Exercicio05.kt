@@ -1,5 +1,4 @@
 package Aula02.Exercicio05
-
 /*
 Given 4 numbers
 return true if

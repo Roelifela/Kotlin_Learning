@@ -1,5 +1,4 @@
 package Aula02.Exercicio06
-
 /*
 Print first 100
 positive numbers
