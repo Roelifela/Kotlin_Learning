@@ -8,7 +8,7 @@ false if not equals
 
 fun main(){
 
-    println("${checaString("Rodrigo Cordeiro", "Rodrigo Silvs")}")
+    println("${checaString("Rodrigo Cordeiro", "Rodrigo Cordeiro")}")
 
 }
 
