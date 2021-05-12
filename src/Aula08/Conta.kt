@@ -1,27 +1,17 @@
 package Aula08
 
-open class Conta(
-    var numeroDaConta: Int,
-    var saldo: Double,
-    var titular: Cliente)
- {
+open class Conta(var cliente: Cliente) {
 
-    open fun deposito(valor: Double){
+    open fun depositar(valorDeposito: Double){
 
-        saldo += valor
-        println("Depósito de R$ $valor\nNovo saldo: R$ $saldo")
     }
 
-    open fun saque(valor:Double){
-        if (valor <= saldo) {
-            saldo -= valor
-            println("Saque de R$ $valor\nNovo saldo: R$$saldo")
-        } else {
-            println("Saldo insuficiente")
-        }
+    open fun sacar(valorSaque: Double){
+
     }
 
-    fun consutarSaldo(conta: Conta){
-        println("Seu saldo é $saldo")
+    open fun consultarSaldo(){
+
     }
+
 }
