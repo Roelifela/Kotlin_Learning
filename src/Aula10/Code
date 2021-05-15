@@ -1,0 +1,19 @@
+fun main() {
+
+    VERSION WITHOUT USER INPUT
+    OBJECT CREATED MANUALLY JUST
+    TO CHECK - TEST CLASSES
+
+    var ingressoNormal = Normal()
+    var ingressoCamaroteInferior = CamaroteInferior("Inferior - 10A")
+    var ingressoCamaroteSuperior = CamaroteSuperior("Superior - 20B")
+
+    ingressoNormal.imprimeValor()
+    ingressoCamaroteInferior.imprimeValor()
+    ingressoCamaroteSuperior.imprimeValor()
+
+    VERSION FROM ORIGINAL EXERCISE
+    USING KEYBOARD INPUT AND DRIVING SYSTEM
+    ACCORDING TO OPTIONS.
+
+}
